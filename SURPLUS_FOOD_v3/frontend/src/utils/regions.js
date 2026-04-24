@@ -1,0 +1,20 @@
+export const PUNE_REGIONS = [
+  { name: 'Shivajinagar', lat: 18.5314, lng: 73.8446 },
+  { name: 'Kothrud', lat: 18.5074, lng: 73.8077 },
+  { name: 'Deccan / FC Road', lat: 18.5158, lng: 73.8402 },
+  { name: 'Aundh', lat: 18.5580, lng: 73.8075 },
+  { name: 'Baner', lat: 18.5590, lng: 73.7868 },
+  { name: 'Wakad', lat: 18.5987, lng: 73.7687 },
+  { name: 'Hinjewadi', lat: 18.5913, lng: 73.7389 },
+  { name: 'Koregaon Park', lat: 18.5362, lng: 73.8939 },
+  { name: 'Kalyani Nagar', lat: 18.5475, lng: 73.9033 },
+  { name: 'Viman Nagar', lat: 18.5679, lng: 73.9143 },
+  { name: 'Hadapsar', lat: 18.4967, lng: 73.9417 },
+  { name: 'Magarpatta', lat: 18.5135, lng: 73.9318 },
+  { name: 'Katraj', lat: 18.4529, lng: 73.8587 },
+  { name: 'Kondhwa', lat: 18.4771, lng: 73.8907 },
+  { name: 'Bibwewadi', lat: 18.4770, lng: 73.8643 },
+  { name: 'Warje', lat: 18.4839, lng: 73.8021 },
+  { name: 'Karve Nagar', lat: 18.4851, lng: 73.8160 },
+  { name: 'Balewadi', lat: 18.5759, lng: 73.7781 }
+];

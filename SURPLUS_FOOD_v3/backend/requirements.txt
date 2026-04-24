@@ -1,0 +1,12 @@
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+motor==3.4.0
+pydantic==1.10.15
+python-dotenv==1.0.1
+
+# JWT + bcrypt (NEW in v2)
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Background scheduler — food expiry automation (NEW in v2)
+APScheduler==3.10.4
